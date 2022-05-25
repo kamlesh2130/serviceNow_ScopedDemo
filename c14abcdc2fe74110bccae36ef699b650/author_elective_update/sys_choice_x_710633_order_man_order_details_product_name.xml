@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="product_name" table="x_710633_order_man_order_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>product_name</element>
+            <name>x_710633_order_man_order_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-14 19:18:21</sys_created_on>
+            <sys_id>149801dc2f2b4110bccae36ef699b61c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>product_name</sys_name>
+            <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+            <sys_update_name>sys_choice_x_710633_order_man_order_details_product_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-14 19:18:21</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>0</dependent_value>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Motorola</label>
+            <language>en</language>
+            <name>x_710633_order_man_order_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-14 19:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>061801dc2f2b4110bccae36ef699b666</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-14 19:49:49</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dell inspiron</label>
+            <language>en</language>
+            <name>x_710633_order_man_order_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-14 19:52:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d20dd942f6b4110bccae36ef699b6f7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-14 19:53:42</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Samsung Tv 43 inch</label>
+            <language>en</language>
+            <name>x_710633_order_man_order_details</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-14 19:47:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>593fc9542f6b4110bccae36ef699b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-14 19:47:23</sys_updated_on>
+            <value>Samsung Tv 43 inch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sonata</label>
+            <language>en</language>
+            <name>x_710633_order_man_order_details</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-17 18:50:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb0fdcd12fef0510bccae36ef699b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-17 18:50:56</sys_updated_on>
+            <value>Sonata</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LG Tv 43 inch</label>
+            <language>en</language>
+            <name>x_710633_order_man_order_details</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-14 19:42:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45cd09142f6b4110bccae36ef699b64c</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-14 19:49:43</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LG tv 53 inch</label>
+            <language>en</language>
+            <name>x_710633_order_man_order_details</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-14 19:47:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a93fc9542f6b4110bccae36ef699b652</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-18 11:50:39</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>product_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fossil</label>
+            <language>en</language>
+            <name>x_710633_order_man_order_details</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-17 18:50:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c1f58552fef0510bccae36ef699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-17 18:50:59</sys_updated_on>
+            <value>Fossil</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

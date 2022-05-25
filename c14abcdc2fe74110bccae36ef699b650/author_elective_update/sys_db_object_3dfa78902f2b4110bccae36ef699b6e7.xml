@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Order Managment Demo</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_710633_order_man_order_managment_demo</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 18:22:13</sys_created_on>
+        <sys_id>3dfa78902f2b4110bccae36ef699b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order Managment Demo</sys_name>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_update_name>sys_db_object_3dfa78902f2b4110bccae36ef699b6e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 18:22:13</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_710633_order_man.order_managment_demo_user" name="x_710633_order_man.order_managment_demo_user">31bb34d02f2b4110bccae36ef699b680</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</application>
+        <file_path/>
+        <instance_id>6bfb8f0bdba4bf0049eac5970596197a</instance_id>
+        <instance_name>dev79174</instance_name>
+        <name>sys_db_object_3dfa78902f2b4110bccae36ef699b6e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Order Managment Demo</label><live_feed_enabled>false</live_feed_enabled><name>x_710633_order_man_order_managment_demo</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-14 18:22:13</sys_created_on><sys_id>3dfa78902f2b4110bccae36ef699b6e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Order Managment Demo</sys_name><sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package><sys_policy/><sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope><sys_update_name>sys_db_object_3dfa78902f2b4110bccae36ef699b6e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-14 18:22:13</sys_updated_on><update_access>false</update_access><user_role display_value="x_710633_order_man.order_managment_demo_user" name="x_710633_order_man.order_managment_demo_user">31bb34d02f2b4110bccae36ef699b680</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-2097444641</payload_hash>
+        <record_name>Order Managment Demo</record_name>
+        <reverted_from/>
+        <source>154abcdc2fe74110bccae36ef699b652</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 18:22:15</sys_created_on>
+        <sys_id>26bb34d02f2b4110bccae36ef699b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180c3ce8e5b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 18:22:15</sys_updated_on>
+        <type>Table</type>
+        <update_guid>6ebb34d0442b411013da763e5ff3b5cb</update_guid>
+        <update_guid_history>6ebb34d0442b411013da763e5ff3b5cb:-2097444641</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 20:01:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>04053c4ab6d34d76815d455bd83d5ba4</sys_id>
+        <sys_metadata>3dfa78902f2b4110bccae36ef699b6e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order Managment Demo</sys_name>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_scope_delete display_value="">470ae0e6ef824c0099d235b572900000</sys_scope_delete>
+        <sys_update_name>sys_db_object_3dfa78902f2b4110bccae36ef699b6e7</sys_update_name>
+        <sys_update_version display_value="sys_db_object_3dfa78902f2b4110bccae36ef699b6e7">26bb34d02f2b4110bccae36ef699b6cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 20:01:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

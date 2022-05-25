@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Order Welcome message demo</description>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Order Welcome message</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+    //Type appropriate comment here, and begin script below
+
+    var confirm1 = confirm("Using this service first time ?");
+    if (confirm1 == true)
+        g_form.addInfoMessage("Welome to Order Management Application");
+//     else
+//         g_form.addInfoMessage("Nice to see you again in Order Management Application");
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 20:28:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e07995c2f6b4110bccae36ef699b648</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Order Welcome message</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_update_name>sys_script_client_6e07995c2f6b4110bccae36ef699b648</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-17 19:28:47</sys_updated_on>
+        <table>x_710633_order_man_order_details</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</application>
+        <file_path/>
+        <instance_id>6bfb8f0bdba4bf0049eac5970596197a</instance_id>
+        <instance_name>dev79174</instance_name>
+        <name>sys_script_client_6e07995c2f6b4110bccae36ef699b648</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;Order Welcome message demo&lt;/description&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Order Welcome message&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+    //Type appropriate comment here, and begin script below
+
+    var confirm1 = confirm("Using this service first time ?");
+    if (confirm1 == true)
+        g_form.addInfoMessage("Welome to Order Management Application");
+//     else
+//         g_form.addInfoMessage("Nice to see you again in Order Management Application");
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-05-14 20:28:50&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;6e07995c2f6b4110bccae36ef699b648&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;Order Welcome message&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Order_Management" source="x_710633_order_man"&gt;c14abcdc2fe74110bccae36ef699b650&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Order_Management"&gt;c14abcdc2fe74110bccae36ef699b650&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_6e07995c2f6b4110bccae36ef699b648&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-05-17 19:28:47&lt;/sys_updated_on&gt;&lt;table&gt;x_710633_order_man_order_details&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>327859582</payload_hash>
+        <record_name>Order Welcome message</record_name>
+        <reverted_from/>
+        <source>154abcdc2fe74110bccae36ef699b652</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-17 19:28:47</sys_created_on>
+        <sys_id>12b72c5d2fef0510bccae36ef699b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180d37e8cbb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-17 19:28:47</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>5ab72c5d27ef051088c4c017f5a807a5</update_guid>
+        <update_guid_history>5ab72c5d27ef051088c4c017f5a807a5:327859582,ca5fd15485ab4110653237fa70702309:-668660629,975d5d906dab4110bcba1056d39b3d44:-1215995795,30bc99dc9e6b4110b38cdffdc9de628b:-509980181,d36c9d50adab41105ced09d03e38c439:1650724749,6acb5110b1ab4110bc29dfd2a7f9dcac:-124988041,59c91158fc6b41105e8e9dad1b96a25a:231816061,9c891ddc796b41102c4766b9eda3b584:1601857764,acb8d55cd26b41108c6868dd447b511e:-43624050</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-18 11:16:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>3ddc5ed2158540aca98615cb70eadf10</sys_id>
+        <sys_metadata>6e07995c2f6b4110bccae36ef699b648</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order Welcome message</sys_name>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_parent display_value="Order Details">b8d34d982f2b4110bccae36ef699b6fb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_scope_delete display_value="">470ae0e6ef824c0099d235b572900000</sys_scope_delete>
+        <sys_update_name>sys_script_client_6e07995c2f6b4110bccae36ef699b648</sys_update_name>
+        <sys_update_version display_value="sys_script_client_6e07995c2f6b4110bccae36ef699b648">12b72c5d2fef0510bccae36ef699b6a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-18 11:16:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

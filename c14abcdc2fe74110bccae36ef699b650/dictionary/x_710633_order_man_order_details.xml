@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Order Details" max_length="40" name="x_710633_order_man_order_details" sizeclass="42" type="collection">
+        <element label="date" max_length="40" name="date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" dependent="product_type" dependent_on_field="product_type" label="Product Name" mandatory="true" max_length="40" name="product_name" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="2" inactive_on_update="false" label="Dell inspiron" value="4"/>
+                <element dependent_value="0" inactive_on_update="false" label="Motorola" value="1"/>
+                <element dependent_value="1" inactive_on_update="false" label="Samsung Tv 43 inch" sequence="0" value="Samsung Tv 43 inch"/>
+                <element dependent_value="3" inactive_on_update="false" label="Sonata" sequence="0" value="Sonata"/>
+                <element dependent_value="3" inactive_on_update="false" label="Fossil" sequence="1" value="Fossil"/>
+                <element dependent_value="1" inactive_on_update="false" label="LG Tv 43 inch" sequence="1" value="3"/>
+                <element dependent_value="1" inactive_on_update="false" label="LG tv 53 inch" sequence="1" value="6"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Product Type" mandatory="true" max_length="40" name="product_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="TV" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Laptop" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Watches" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Mobile" sequence="4" value="0"/>
+            </choice>
+        </element>
+        <element label="Created Time" max_length="40" name="u_glide_date_time_1" read_only="true" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Caller" mandatory="true" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Order Managment Demo">06bb34d02f2b4110bccae36ef699b686</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Order Managment Demos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_710633_order_man_order_managment_demo</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_710633_order_man.order_managment_demo_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 18:22:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8ebb34d02f2b4110bccae36ef699b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order Managment Demos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_update_name>sys_app_module_8ebb34d02f2b4110bccae36ef699b689</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 18:22:13</sys_updated_on>
+        <timeline_page/>
+        <title>Order Managment Demos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</application>
+        <file_path/>
+        <instance_id>6bfb8f0bdba4bf0049eac5970596197a</instance_id>
+        <instance_name>dev79174</instance_name>
+        <name>sys_app_module_8ebb34d02f2b4110bccae36ef699b689</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Order Managment Demo">06bb34d02f2b4110bccae36ef699b686</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Order Managment Demos</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_710633_order_man_order_managment_demo</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_710633_order_man.order_managment_demo_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-14 18:22:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8ebb34d02f2b4110bccae36ef699b689</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Order Managment Demos</sys_name><sys_overrides/><sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package><sys_policy/><sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope><sys_update_name>sys_app_module_8ebb34d02f2b4110bccae36ef699b689</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-14 18:22:13</sys_updated_on><timeline_page/><title>Order Managment Demos</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1234355723</payload_hash>
+        <record_name>Order Managment Demos</record_name>
+        <reverted_from/>
+        <source>154abcdc2fe74110bccae36ef699b652</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 18:22:13</sys_created_on>
+        <sys_id>42bb34d02f2b4110bccae36ef699b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180c3ce87250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 18:22:13</sys_updated_on>
+        <type>Module</type>
+        <update_guid>8abb34d0212b4110f0048aaaeabd0d8c</update_guid>
+        <update_guid_history>8abb34d0212b4110f0048aaaeabd0d8c:-1234355723</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Order Managment Demos">146211582f6b4110bccae36ef699b6e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 20:01:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>554b3fb6be0a4bc09d1eddbf34f2e100</sys_id>
+        <sys_metadata>8ebb34d02f2b4110bccae36ef699b689</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order Managment Demos</sys_name>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_scope_delete display_value="">470ae0e6ef824c0099d235b572900000</sys_scope_delete>
+        <sys_update_name>sys_app_module_8ebb34d02f2b4110bccae36ef699b689</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8ebb34d02f2b4110bccae36ef699b689">42bb34d02f2b4110bccae36ef699b68d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 20:01:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

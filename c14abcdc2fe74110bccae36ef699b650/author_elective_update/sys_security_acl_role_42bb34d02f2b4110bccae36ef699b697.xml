@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 18:22:14</sys_created_on>
+        <sys_id>42bb34d02f2b4110bccae36ef699b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_710633_order_man_order_managment_demo.x_710633_order_man.order_managment_demo_user</sys_name>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_security_acl display_value="x_710633_order_man_order_managment_demo">4abb34d02f2b4110bccae36ef699b694</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_42bb34d02f2b4110bccae36ef699b697</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 18:22:14</sys_updated_on>
+        <sys_user_role display_value="x_710633_order_man.order_managment_demo_user" name="x_710633_order_man.order_managment_demo_user">31bb34d02f2b4110bccae36ef699b680</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</application>
+        <file_path/>
+        <instance_id>6bfb8f0bdba4bf0049eac5970596197a</instance_id>
+        <instance_name>dev79174</instance_name>
+        <name>sys_security_acl_role_42bb34d02f2b4110bccae36ef699b697</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-14 18:22:14</sys_created_on><sys_id>42bb34d02f2b4110bccae36ef699b697</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_710633_order_man_order_managment_demo.x_710633_order_man.order_managment_demo_user</sys_name><sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package><sys_policy/><sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope><sys_security_acl display_value="x_710633_order_man_order_managment_demo">4abb34d02f2b4110bccae36ef699b694</sys_security_acl><sys_update_name>sys_security_acl_role_42bb34d02f2b4110bccae36ef699b697</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-14 18:22:14</sys_updated_on><sys_user_role display_value="x_710633_order_man.order_managment_demo_user" name="x_710633_order_man.order_managment_demo_user">31bb34d02f2b4110bccae36ef699b680</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1325395018</payload_hash>
+        <record_name>x_710633_order_man_order_managment_demo.x_710633_order_man.order_managment_demo_user</record_name>
+        <reverted_from/>
+        <source>154abcdc2fe74110bccae36ef699b652</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 18:22:14</sys_created_on>
+        <sys_id>8abb34d02f2b4110bccae36ef699b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180c3ce89290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 18:22:14</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c2bb34d05c2b41103445486e4aa8dba5</update_guid>
+        <update_guid_history>c2bb34d05c2b41103445486e4aa8dba5:1325395018</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_710633_order_man_order_managment_demo.x_710633_order_man.order_managment_demo_">c86211582f6b4110bccae36ef699b6cf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-14 20:01:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>076cc9f3aadc467281c7c6e92c4b5f04</sys_id>
+        <sys_metadata>42bb34d02f2b4110bccae36ef699b697</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_710633_order_man_order_managment_demo.x_710633_order_man.order_managment_demo_user</sys_name>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_parent display_value="">4abb34d02f2b4110bccae36ef699b694</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_scope_delete display_value="">470ae0e6ef824c0099d235b572900000</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_42bb34d02f2b4110bccae36ef699b697</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_42bb34d02f2b4110bccae36ef699b697">8abb34d02f2b4110bccae36ef699b6a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-14 20:01:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

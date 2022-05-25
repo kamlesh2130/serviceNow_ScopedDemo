@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>execute</operation>
+        <source_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-05-18 18:22:25</sys_created_on>
+        <sys_id>cc22e1692f638510bccae36ef699b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.setValue</sys_name>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_update_name>sys_scope_privilege_cc22e1692f638510bccae36ef699b651</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-05-18 18:22:25</sys_updated_on>
+        <target_name>GlideRecord.setValue</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</application>
+        <file_path/>
+        <instance_id>6bfb8f0bdba4bf0049eac5970596197a</instance_id>
+        <instance_name>dev79174</instance_name>
+        <name>sys_scope_privilege_cc22e1692f638510bccae36ef699b651</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-05-18 18:22:25</sys_created_on><sys_id>cc22e1692f638510bccae36ef699b651</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideRecord.setValue</sys_name><sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package><sys_policy/><sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope><sys_update_name>sys_scope_privilege_cc22e1692f638510bccae36ef699b651</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-05-18 18:22:25</sys_updated_on><target_name>GlideRecord.setValue</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>1121877345</payload_hash>
+        <record_name>GlideRecord.setValue</record_name>
+        <reverted_from/>
+        <source>fad8887521920110a866589604c20da8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-05-18 18:22:26</sys_created_on>
+        <sys_id>4422e1692f638510bccae36ef699b654</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180d86826cf0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-05-18 18:22:26</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>8c22e16971638510fe461907048bd953</update_guid>
+        <update_guid_history>8c22e16971638510fe461907048bd953:1121877345</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-19 07:59:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>052a6fbe4a3343ae8082f162148c0244</sys_id>
+        <sys_metadata>cc22e1692f638510bccae36ef699b651</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.setValue</sys_name>
+        <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
+        <sys_scope_delete display_value="">470ae0e6ef824c0099d235b572900000</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_cc22e1692f638510bccae36ef699b651</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_cc22e1692f638510bccae36ef699b651">4422e1692f638510bccae36ef699b654</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-19 07:59:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
