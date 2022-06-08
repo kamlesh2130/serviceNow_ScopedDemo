@@ -13,7 +13,7 @@
 	current.addActiveQuery();
 	current.addQuery("u_reference_1", parent.u_reference_1);
 	current.addQuery("number","!=", parent.number);
-	current.orderBy("number");
+	//current.orderBy("number");
 
 })(current, parent);]]></query_with>
         <reference_field/>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-18 19:02:09</sys_created_on>
         <sys_id>7a1ae5612fa38510bccae36ef699b678</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Orders By Caller</sys_name>
         <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
         <sys_policy/>
         <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
         <sys_update_name>sys_relationship_7a1ae5612fa38510bccae36ef699b678</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-18 19:10:29</sys_updated_on>
+        <sys_updated_on>2022-06-08 13:43:12</sys_updated_on>
     </sys_relationship>
     <sys_translated_text action="delete_multiple" query="documentkey=7a1ae5612fa38510bccae36ef699b678"/>
 </record_update>
