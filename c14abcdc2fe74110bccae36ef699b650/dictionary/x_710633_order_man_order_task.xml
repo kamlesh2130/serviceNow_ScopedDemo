@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Order Task" max_length="40" name="x_710633_order_man_order_task" sizeclass="11" type="collection">
+    <element extends="task" label="Order Task" max_length="40" name="x_710633_order_man_order_task" sizeclass="13" type="collection">
         <element dependent="number" dependent_on_field="number" label="Order number" max_length="32" name="order_number" read_only="true" reference="x_710633_order_man_order_details" type="reference" use_dependent_field="true"/>
     </element>
 </database>

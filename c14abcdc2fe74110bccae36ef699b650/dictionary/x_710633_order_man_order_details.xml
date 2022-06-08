@@ -20,6 +20,7 @@
                 <element inactive_on_update="false" label="Mobile" sequence="4" value="0"/>
             </choice>
         </element>
+        <element display="true" label="UserNAME" max_length="32" name="username" reference="sys_user" type="reference"/>
         <element label="Created Time" max_length="40" name="u_glide_date_time_1" read_only="true" type="glide_date_time"/>
         <element attributes="encode_utf8=false" label="Caller" mandatory="true" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
     </element>
