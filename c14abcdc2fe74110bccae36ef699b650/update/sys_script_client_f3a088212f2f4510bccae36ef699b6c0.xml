@@ -23,7 +23,7 @@
     } else if (newValue != 2) {
         g_form.setValue("priority", 4);
     }
- var type1 = g_form.getValue("product_type");
+// var type1 = g_form.getValue("product_type");
     if (type1 == 1) {
         g_form.setValue("priority", 2);
 		
@@ -41,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f3a088212f2f4510bccae36ef699b6c0</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_name>priority</sys_name>
         <sys_overrides/>
         <sys_package display_value="Order_Management" source="x_710633_order_man">c14abcdc2fe74110bccae36ef699b650</sys_package>
@@ -49,7 +49,7 @@
         <sys_scope display_value="Order_Management">c14abcdc2fe74110bccae36ef699b650</sys_scope>
         <sys_update_name>sys_script_client_f3a088212f2f4510bccae36ef699b6c0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-10 08:49:57</sys_updated_on>
+        <sys_updated_on>2022-06-10 08:51:11</sys_updated_on>
         <table>x_710633_order_man_order_details</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
